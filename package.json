@@ -1,0 +1,11 @@
+{
+	"name": "Voter",
+	"version": "0.0.1",
+	"description": "A Vote Machine",
+	"dependencies": {
+    "johnny-five":"*",
+    "underscore":"1.5.2",
+    "express":"*",
+    "jade": "*"
+	}
+}
